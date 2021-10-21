@@ -164,13 +164,3 @@ h3 {
   }
 }
 
-@media (min-width: 700px) {
-  #title {
-    text-align: center;
-  }
-
-  .iphone-img {
-    position: static;
-    transform: none;
-  }
-}
